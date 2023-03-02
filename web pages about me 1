@@ -1,0 +1,199 @@
+nav{float:right;}
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+<html>
+
+<style type="text/css">
+
+</style>
+
+<head>
+
+<title> Emilys Amazing Art </title> 
+</head>
+
+<body>
+
+<!-- site navagation menu --> 
+
+<url class="navbar">
+
+<li><a href="homepage"><{dispplay:<img src="IMG_1906.jpeg" width="2316" height="3088" alt=""/>;}></>
+
+<li><a href="aboutme,socialmedia"> about me social media</a>
+
+<li><a href="works"> works</a>
+
+<li><a href="contactinformation"> contact information</a>
+
+
+<homepage>
+<logo> 
+
+<aboutme>
+<li> <a href= My name is Emily Bell. I live in Massachuttes. Maninly I focus on photography and graphic desgin.I like to photography nature,architetural, street life, people.I like to desgin stuff like food, flowers,unsual things></li></a>
+
+<socialmedia> link https://www.instagram.com/emilys_art402/ </socialmedia> 
+
+</aboutme>
+
+<works> 
+
+<contactinformation> 
+
+<email> emilybell0699@gmail.com</email>
+	
+	</contactinformation> 
+
+
+
+
+
+
+
+loat: right;
+}
+.mobile-menu {
+	display: none;
+}
+
+.expand {
+	display: block !important;
+}
+
+.desktop-menu ul li {
+	list-style-type: none;
+	display: inline-block;
+	
+}
+.desktop-menu ul li a {
+	padding-top: 9px;
+	padding-right: 43px;
+	padding-bottom: 9px;
+	padding-left: 43px;
+	text-decoration: none;
+	color: #E8E8E8;
+
+
+
+
+
+ 
+
+
+
+</head>
+
+<body>
+
+
+  
+
+</body>
+</html>
+
+
+
+
+
+
+body{margin:0;padding:0;line height: 1.6em;font:83%/160% arial, verdana,helvetica;background: #fff url(images/bg.gif) repeat-y center;color:#333; }
+
+#maincontainer{width: 842px;margin:1 auto;}
+
+#topsection{padding:47px 00 17px;height: 70px;margin: o 13px 00; background: url(images/bg_.gif)no-repeat right;}
+
+* html #topsection{height:60px;}
+
+#contentwrappper{float: left;width: 100%;}
+
+#contentcolumn{margin-left:205px;}
+
+#leftcolum{float:left;width:200px;margin-left:-845px;}
+
+/*Navigation left*/
+
+#mavlist{padding-left:0;margin:0;border-bottom:3px solid #006699;width:180px;}
+
+#navlist li{list-style: none;margin:0;padding:0.26em;border-top:2px solid 006699;}
+
+#navlist li a, #navlist li a:link,#navlist li a:visted,#navlist li a: active{color: light green;text-decoration:none;outline:none;text-transformation:uppercase;letter-spacing:2px;display:block;}
+
+#navlist li a:hover{color:light pink;background:light yellow url(images/arrow.gif)no-repeat right;}
+
+/*Box Left*/
+
+.boxleft{border:2px solid #006699;width:180px;margin:15px 0 15px 0;}
+
+.boxleft{padding:5px;font-size:94%;line-height:140%;}
+
+/*box right*/ 
+
+.boxright {float: right;border: 3px solid #006699;width: 170px;margin: 0 0 15px 15px; background-color light pink }
+
+.boxrighttext {padding:5px; font-size 93%;line height: 145%;}
+
+/*content columns*/ 
+
+.columnleft{float: left;width:295px;border-right: 2px; #006699;}
+
+.columnright{float: right;width:295px;}
+
+.boxcenter{border: 2px solid #006699;background-color:light green;margin:10px 10px 0;}
+
+.boxcentertext{padding:5px;font-size:94%;line-height:145%;}
+
+/*Text Style*/
+
+.titel{font-size: 5em;font-weight: bold; color: #006699; letter-spacing: 3px;background-color: light yellow;padding:0 10px 0 10px;}
+
+.title2{font-size: 3.5em;font-weight: bold;color: #006699; leter-spacing: 2px;background-color: light pink;padding: 0 10px 0 10px;}
+
+.subtitle{font-size: 1.53m;font-weight: bold;color #006699;letter-spacing:2px;padding:0 10px 0 10px;}
+
+hi,h2,h3,h4{letter-spacing:1px;}
+
+h1{background-color: #006699;color: light green; text-align: center;line-height: 1.5em;margin-top: 0;font-size:1.9em; }
+
+h2{line-height:1.2em;font-size: 1.7em;}
+
+h3{font-size: 1.4em;color: light yellow;}
+
+h4,h5,h6{font-size: 2em;margin:0;}
+
+.text{margin: 15px;margin-top: 0;}
+
+.imgleft{float: left;margin:7px 10px 0 0;border:0;}
+
+img{border:0;}
+
+#contentcolumn p {margin: 0 0 15px 0;}
+
+a,a link, a:visted,a: active{color:light pink;outline:none;}
+
+a:hover{color: lightgreen text-decoration: none;}
+
+.list{margin-left:0;padding-left:0;list-style: none;}
+
+. list li a {background: none;background: white url(images/list.gif)no-repeat0% 5px;padding-left: 15px;}
+
+#top{text-align:right;border-bottom: 2px solid #006699; padding-bottom: 2px;margin-bottom:11px; }
+
+#copyright{text-align: center;font-size: 96%;}
+
+hr{clear:both;border:0px;height:0px; color:light green; background-color: light yellow; margin:0;}
+
+
+
+
+
+
+
+
+
+
+
